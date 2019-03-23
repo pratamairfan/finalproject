@@ -1,0 +1,187 @@
+body{
+    font-family: Arial Rounded MT Bold;
+}
+
+::selection {
+    background-color: #00d1b2;
+    color: #fff;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.bg-primary {
+    background-color: #00d1b2 !important;
+}
+
+.primary-nt-hv{
+    background-color: #01d8b8 !important;
+}
+
+.text-primary {
+    color: #00d1b2 !important;
+}
+
+.bg-primary:hover{
+    background-color: #00b89c !important;
+}
+
+.text-primary:hover{
+    color: #00b89c !important;
+}
+
+.bg-info {
+    background-color: #209cee !important;   
+}
+
+.text-info {
+    color: #209cee !important;   
+}
+
+.bg-info:hover{
+    background-color: #0088e2 !important;
+}
+
+.text-info:hover{
+    color: #0088e2 !important;
+}
+
+.bg-success {
+    background-color: #23d160 !important;
+}
+
+.text-success {
+    color: #23d160 !important;
+}
+
+.bg-success:hover{
+    background-color: #02b13f !important;
+}
+
+.text-success:hover{
+    color: #02b13f !important;
+}
+
+.bg-warning {
+    background-color: #ffdd57 !important;
+}
+
+.text-warning {
+    color: #ffdd57 !important;
+}
+
+.bg-warning:hover{
+    background-color: #f8c600 !important;
+}
+
+.text-warning:hover{
+    color: #f8c600 !important;
+}
+
+.bg-danger {
+    background-color: #ff3838 !important;
+}
+
+.text-danger {
+    color: #ff3838 !important;
+}
+
+.bg-danger:hover {
+    background-color: #e70202 !important;
+}
+
+.text-danger:hover {
+    color: #e70202 !important;
+}
+
+.text-dark:hover {
+    color: #fff !important;
+}
+
+.bg-gray {
+    background-color: #eeeeee !important;
+}
+
+.text-gray {
+    color: #bdbdbd;
+}
+
+.btn-outline-primary {
+    color: #00d1b2;
+    border-color: #00d1b2;
+}
+
+.btn-outline-primary:hover {
+    color: #fff;
+    background-color: #00d1b2;
+    border-color: #00d1b2;
+}
+
+.btn-outline-primary:active {
+    color: #fff !important;
+    background-color: #00d1b2 !important;
+    border-color: #00d1b2 !important;
+}
+
+.card-body {
+    padding: 3.25rem;
+}
+
+.img-220 {
+    display: block;
+  width: 100%;
+  height: 220px;
+}
+
+.carousel-item img {
+    height: 550px;
+    background-size: cover;
+}
+
+.section {
+    padding: 6rem 1.5rem;
+}
+
+
+.img {
+    display: block;
+    height: 85px !important;
+    width: 80px !important;
+}
+
+.image {
+    height: 245px;
+}
+
+.round {
+    border-radius: 5px 5px 0 0;
+}
+
+.read {
+    text-transform: uppercase;
+}
+
+.f-2 {
+    font-size: 2rem;
+}
+
+.footer {
+    background-color: #fafafa;
+    padding: 3rem 1.5rem 6rem;
+  }
+
+.footer .container .row .col p a{
+    color: #fff !important;
+}
+.footer .container .row .col p a:hover{
+    color: #ffdd57 !important;
+}
+
+.footer .container .row .col .text-right a {
+    font-size: 50px;
+    padding: 0 1.25rem;
+}
+
+/* modal */
+
